@@ -5,6 +5,7 @@ Welcome to the **Higher or Lower Game**, a fun and simple Python-based guessing 
 
 In this game, you'll be shown two popular people or entities with their descriptions. Your task is to guess **which one has more followers**. If you guess right, your score increases. If not, the game ends and your score is displayed.
 
+![](https://github.com/psyccho00/Higher-OR-Lower-Game/blob/main/Highr%20or%20lower.png)
 ---
 
 ## 📁 Project Structure
